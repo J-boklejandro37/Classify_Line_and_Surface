@@ -21,6 +21,10 @@ chair_001_20.obj, 0
 chair_001_21.obj, 0
 chair_001_22.obj, 0
 chair_001_23.obj, 0
+chair_001_24.obj, 0
+chair_001_25.obj, 0
+chair_001_26.obj, 0
+chair_001_27.obj, 0
 
 chair_011_01.obj, 1
 chair_011_02.obj, 1
@@ -32,6 +36,7 @@ chair_011_07.obj, 0
 chair_011_08.obj, 0
 chair_011_09.obj, 0
 chair_011_10.obj, 0
+chair_011_10.obj, 1
 
 chair_015_01.obj, 0
 chair_015_02.obj, 0
@@ -78,6 +83,7 @@ chair_023_06.obj, 0
 chair_023_07.obj, 0
 chair_023_08.obj, 0
 chair_023_09.obj, 0
+chair_023_10.obj, 1
 
 chair_026_01.obj, 1
 chair_026_02.obj, 1
@@ -86,6 +92,7 @@ chair_026_04.obj, 0
 chair_026_05.obj, 0
 chair_026_06.obj, 0
 chair_026_07.obj, 0
+chair_026_08.obj, 1
 
 chair_027_01.obj, 1
 chair_027_02.obj, 0
@@ -151,6 +158,7 @@ chair_053_12.obj, 0
 chair_053_13.obj, 0
 chair_053_14.obj, 0
 chair_053_15.obj, 0
+chair_053_16.obj, 1
 
 chair_055_01.obj, 1
 chair_055_02.obj, 1
@@ -271,3 +279,4 @@ chair_267_05.obj, 0
 chair_267_06.obj, 0
 chair_267_07.obj, 0
 chair_267_08.obj, 0
+chair_267_09.obj, 1
